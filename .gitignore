@@ -1,0 +1,8 @@
+# Git Ignore
+*.log
+scratch/
+cookie*.txt
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
